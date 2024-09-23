@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.country {
+  border : 2px solid salmon ;
+  border-radius: 10px;
+  margin-top: 5px;
+}
